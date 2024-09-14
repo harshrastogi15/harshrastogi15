@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web development|c++ |python 
 - 💞️ I’m looking to collaborate on different project on Web Development
 - 💬 Ask me about Web Development
-- 📫 Email : hrastogi2002@gmail.com  Contact : +91 7455878221
+- 📫 Email : hrastogi2002@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
